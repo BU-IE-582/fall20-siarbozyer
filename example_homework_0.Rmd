@@ -12,3 +12,19 @@ opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
     This example is important because it is an R Notebook on Titanic data set. Titanic is considered as one of the Data Science 101 data set and this notebook provides a good exploratory data analysis. It is also a Kaggle Kernel, which is a very good source for this kind of example R codes. The notebook also covers feature engineering, missing data imputation and modeling.
 
 
+2. [Music Recommendation -- Random Forest, XGboost](https://www.kaggle.com/myonin/music-recommendation-random-forest-xgboost)
+
+    I find it when I search musical datasets. Music is my part of life, and connection between music and data is the most enjoyable thing I think.
+    
+
+3. [Python Notebooks](https://www.kaggle.com/siarbozyer/kernel683442ea4f)
+
+    This is my Python study kernell.
+    
+4. [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football)
+
+    At the end of the lessons, I will continue to practise and try to solve football competition like this.
+    
+5. [Final](https://www.youtube.com/watch?v=M4Czx8EWXb0&ab_channel=VanHalen-Topic)
+
+    RIP Van Halen   
