@@ -18,6 +18,6 @@
 
 [Here](https://bu-ie-582.github.io/fall20-siarbozyer/Project.html) is Los Galacticos's project code (HTML).
 
-[Here](https://bu-ie-582.github.io/fall20-siarbozyer/Project.html) is Los Galacticos's project code (ipynb).
+[Here](https://bu-ie-582.github.io/fall20-siarbozyer/Project.ipynb) is Los Galacticos's project code (ipynb).
 
 [Here](https://bu-ie-582.github.io/fall20-siarbozyer/IE582Report.pdf) is Los Galacticos's project report.
