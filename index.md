@@ -15,3 +15,9 @@
 [Here](https://bu-ie-582.github.io/fall20-siarbozyer/HW4_3.html) is my HW4 with dataset 3.
 
 [Here](https://bu-ie-582.github.io/fall20-siarbozyer/HW4_4.html) is my HW4 with dataset 4.
+
+[Here](https://bu-ie-582.github.io/fall20-siarbozyer/Project.html) is Los Galacticos's project code (HTML).
+
+[Here](https://bu-ie-582.github.io/fall20-siarbozyer/Project.html) is Los Galacticos's project code (ipynb).
+
+[Here](https://bu-ie-582.github.io/fall20-siarbozyer/IE582Report.pdf) is Los Galacticos's project report.
